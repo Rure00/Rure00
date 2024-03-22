@@ -1,7 +1,8 @@
 ### 🌱 Android Developer 🌱
 
-### Every defeat, every fail contains its own seed and lesson How to imporve performance the next time.
-### 엉덩이가 무거운 개발자!
+### Rure00 엉덩이가 무거운 개발자!
+### 📨 E-mail: asnjkd@naver.com
+### 
 
 ### My Skills
 <div>
