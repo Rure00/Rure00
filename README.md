@@ -1,5 +1,8 @@
 ### 🌱 Android Developer 🌱
 
+### Every defeat, every fail contains its own seed and lesson How to imporve performance the next time.
+### 엉덩이가 무거운 개발자!
+
 ### My Skills
 <div>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
