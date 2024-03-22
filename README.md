@@ -1,20 +1,12 @@
 ### 🌱 Android Developer 🌱
 
 ### My Skills
-<span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> 
-  </a>
-</span>
-
 <div>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
     <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
 </div>
 
 
