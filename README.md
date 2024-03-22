@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+[https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 <!--
 **Rure00/Rure00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
